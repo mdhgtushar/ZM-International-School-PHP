@@ -1,0 +1,33 @@
+[13-Aug-2020 11:50:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:50:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:50:04 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:53:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:53:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:53:14 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:54:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:54:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:54:11 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:54:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:54:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:54:14 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:54:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:54:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:54:15 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:54:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:54:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:54:16 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:54:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:54:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:54:17 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:54:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:54:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:54:39 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:54:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:54:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:54:43 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:56:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:56:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:56:49 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28
+[13-Aug-2020 11:56:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zmintern_zm'@'localhost' (using password: YES) in /home/zmintern/public_html/data/Database.php on line 18
+[13-Aug-2020 11:56:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 27
+[13-Aug-2020 11:56:50 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/data/Database.php on line 28

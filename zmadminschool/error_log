@@ -1,0 +1,4 @@
+[13-Aug-2020 11:55:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zmintern/public_html/zmadminschool/data/Database.php on line 18
+[13-Aug-2020 11:55:10 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zmintern/public_html/zmadminschool/data/Database.php on line 27
+[13-Aug-2020 11:55:10 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/zmintern/public_html/zmadminschool/data/Database.php on line 28
+[13-Aug-2020 11:55:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zmintern/public_html/zmadminschool/data/Database.php on line 18
